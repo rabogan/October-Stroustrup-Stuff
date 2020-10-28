@@ -1,0 +1,2 @@
+C:\Users\patri\Desktop\C++\Chapter6 First_Tries\Chapter6Exercise4FirstAttempt\Debug\Chapter6Exercise4FirstAttempt.exe
+C:\Users\patri\Desktop\C++\Chapter6 First_Tries\Chapter6Exercise4FirstAttempt\Debug\Chapter6Exercise4FirstAttempt.pdb
