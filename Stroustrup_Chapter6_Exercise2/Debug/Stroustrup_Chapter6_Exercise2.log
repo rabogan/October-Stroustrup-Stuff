@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\patri\Desktop\C++\Chapter6 First_Tries\Stroustrup_Chapter6_Exercise2\Source.cpp(362): warning C4715: 'Token_stream::get': not all control paths return a value
+C:\Users\patri\Desktop\C++\Chapter6 First_Tries\Stroustrup_Chapter6_Exercise2\Source.cpp(392): warning C4715: 'primary': not all control paths return a value
+  Stroustrup_Chapter6_Exercise2.vcxproj -> C:\Users\patri\Desktop\C++\Chapter6 First_Tries\Stroustrup_Chapter6_Exercise2\Debug\Stroustrup_Chapter6_Exercise2.exe
