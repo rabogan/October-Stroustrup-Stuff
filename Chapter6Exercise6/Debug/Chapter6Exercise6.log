@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\patri\Desktop\C++\Chapter6 First_Tries\Chapter6Exercise6\Source.cpp(298,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\patri\Desktop\C++\Chapter6 First_Tries\Chapter6Exercise6\Source.cpp(304,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\patri\Desktop\C++\Chapter6 First_Tries\Chapter6Exercise6\Source.cpp(311,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\patri\Desktop\C++\Chapter6 First_Tries\Chapter6Exercise6\Source.cpp(317,20): warning C4018: '<': signed/unsigned mismatch
+  Chapter6Exercise6.vcxproj -> C:\Users\patri\Desktop\C++\Chapter6 First_Tries\Chapter6Exercise6\Debug\Chapter6Exercise6.exe
